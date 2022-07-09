@@ -1,6 +1,6 @@
 ## 🎉 Congratulations!
 
-Ink runtime for flutter was done by [@blueloveTH](https://github.com/blueloveTH) [@potuo](https://github.com/potuo)!
+Ink runtime for flutter was done!
 
 `2022/5/30 20:09`
 
