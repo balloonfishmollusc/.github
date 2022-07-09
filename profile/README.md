@@ -1,8 +1,4 @@
-## 🎉 Congratulations!
-
-Ink runtime for flutter was done!
-
-`2022/5/30 20:09`
+Ink runtime for flutter was done at `2022/5/30 20:09`.
 
 <!--
 
